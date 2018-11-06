@@ -4,7 +4,7 @@ Name: Yue Wang
 
 ## Overview.
 
-Based on the web app development assignment, I added these test code to make sure that there is no mistake. It contains three test files: bookings-test, rooms-test and customers-test. I have connected it with mLab and also I use before and after functions to make sure the datas sotred in the database keep the data unchanged no matter what we do in each describe function.
+Based on the web app development assignment, I added these test code to make sure that there is no mistake. It contains three test files: bookings-test, rooms-test and customers-test. I have connected it with mLab and also I use before and after functions to make sure the datas sotred in the database unchanged no matter what we do in each describe function.
 
 ## API endpoints.
 
