@@ -4,7 +4,7 @@ Name: Yue Wang
 
 ## Overview.
 
-Based on the web app development assignment, I added these test code to make sure that there is no mistake. It contains three test files: bookings-test, rooms-test and customers-test. I have connected it with mLab and also I use before and after functions to make sure the datas sotred in the database keep the data unchanged no matter what we do in each describe function.
+Based on the web app development assignment, I added these test code to make sure that there is no mistake. It contains three test files: bookings-test, rooms-test and customers-test. I have connected it with mLab and also I use before and after functions to make sure the data sotred in the database unchanged no matter what we do in each describe function.
 
 ## API endpoints.
 
@@ -212,7 +212,7 @@ I have connected it with mLab. There are three collections named bookingsdb, roo
 
 ## Extra features.
   At first, I forgot to add some branches, then I created a new branching structure in another folder. 
-  But according to the teacher's request, I submitted the original git. Maybe I can put the later branching structure here.
+  But according to the teacher's request, I submitted the original git. So I decide to put the later branching structure here.
         
         $
         git log
